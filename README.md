@@ -1,0 +1,2 @@
+# mathalg
+Mathicatic algorithms library
