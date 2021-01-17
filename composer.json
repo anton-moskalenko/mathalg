@@ -1,0 +1,18 @@
+{
+  "name": "anton-moskalenko/mathalg",
+  "license": "Apache-2.0",
+  "description": "Mathicatic algorithms library",
+  "require": {
+    "php": "^7.0"
+  },
+  "type": "library",
+  "keywords": [
+    "math"
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Liloi\\MathAlg\\": "Source"
+    }
+  }
+}
