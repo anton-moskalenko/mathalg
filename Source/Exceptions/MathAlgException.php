@@ -1,6 +1,6 @@
 <?php
 
-namespace Liloi\MathAlg;
+namespace Liloi\MathAlg\Exceptions;
 
 use Judex\ExtendedException;
 
